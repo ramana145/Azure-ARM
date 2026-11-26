@@ -1,0 +1,16 @@
+{
+	"name": "tokyoolympicramana",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c2d98776-bf67-4308-b1af-19d56ba27e9f",
+		"tenantId": "506e1d95-8ba4-48a7-8ec0-40d36e1f35f0"
+	}
+}
